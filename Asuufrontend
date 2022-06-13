@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title>Netnaija:Information and Entertainment Hub</title>
+<!--<link rel="stylesheet" href="index.css">
+<link ref="icon" href="img/Ray.jpg">
+</head>
+<body>
+<center><img class="ray" src="Ray.jpg" width="200px" height="200px"></center>
+<center><h1>SALAMI SODIQ</h1></center>
+<center><p class="paragraph"><u><em>WEB DEVELOPER.</em></u></p></center>
+  <p id="Ptag"><b>A developer with proven experience in building and perfection of websites.I'm a veteran developer with the aim of rendering services to clients.</b> </p>
+<label for="Email">Email</label>
+<input class="input"type="text" name="Email" value="" placeholder="salamiolanrewaju3@gmail">
+<label for="Phone">Phone</label>
+<input class="phone"type="text" name="Phone" value="" placeholder="08080087606">
+<label for="Location">Location</label>
+<input class="location"type="text" name="Location" value="" placeholder="Lagos"><hr>
+  <Strong><h2 class="skills"><u>SKILLS</u></h2></strong>
+  <ul id="skills">
+    <li><em>Time management</em></li>
+    <li><em>Problem solver</em></li>
+    <li><em>flexibility</em></li>
+    <li><em>Website Developer</em></li>
+</ul><hr>
+<strong><p class="language"><u>LANGUAGES</u></p></strong>
+<table id="table">
+<thead>
+<tr>
+<td><b><strong>Language</strong></b></td>
+<td><b>Rating</b></td>
+</thead>
+<tbody>
+<tr>
+<td><i>English</i></td>
+<td><i>Very Good</i></td>
+</tr>
+<tr>
+<td><i>Yoruba</i></td>
+<td><i>Excellent</i></td>
+</tr>
+</tbody>
+  </table><hr>
+<h2 id="education"><u><strong>EDUCATION</strong></u><h2>
+<p><em>Student in Federal University of Technology,Akure[FUTA].A current 200level candidate</em></p><hr>
+<h2 class="course"><u>COURSE(s)</u></h2>
+<ul id="cos">
+<li>Computer Science</li>
+<li>Marine Science and technology</li>
+</ul><hr>
+<p id="contact"><strong>For more info: Contact me on 08080087606</strong><p><hr>-->
+
+ <!-- <p>The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.</p>
+  <p>The <h1> element defines a large heading</p>
+  <p>The <p> element defines a paragraph</p>-->
+<link rel="stylesheet" href="index.css">
+<link rel="icon" href="img/Netnaija.png">
+ <header class="header">
+  <div class="header-left">
+  <img src="logo.jpg" class="header-left-menu" alt=""></div>
+  <div class="header-right">
+ <a href="#" class="href">Home</a>
+<a href="#" class="href">About</a>
+<a href="#" class="href">Favorites</a>
+<a href="#" class="href">Shop</a>
+<a href="#" class="href">contact</a>
+<img src="search.jpg" class="search" alt="">
+<label for="search"></label>
+<input class="searchs" type="text" name="search" placeholder="search">
+<img src="padlock.jpg" class="padlock" alt="">
+</div>
+
+</header><hr>
+<header class="header2">
+<div>
+<h1 class="start"><b>Start</b></h1>
+<h2 class="journey">Journey with</h2>
+<h2 class="Nike">Nike</h2>
+<img src="girl.jpg" class="girl" alt="">
+<h2 class="online">#1 best online shoe selling store in Nepal!</h2>
+<img src="shop.jpg" class="shop" alt"><br>
+<h3 id="star-rating">4.8 | ⭐️⭐️⭐️⭐️⭐️</h3>
+<p class="reviews">90k total reviews</p>
+
+</div>
+
+
+
+<div>
+<img src="shoe.jpg" class="shoe"alt="">
+</div>
+
+
+<div>
+<h1 class="durable">Durable</h1>
+<p id="products">products stronger and durable material</p>
+<h2 class="Lightweight">Lightweight</h2>
+<p id="Many">Many Nike shoes are lightweight yarn</p>
+<h2 class="Flexible">Flexible</h2>
+<p id="simple">simple and versatile,the nike flex.</p><br>
+<h2 class="percentage">Get 20% off on your first shopping!</h2>
+</div>
+</header><hr>
+<header class="Icon">
+<h1 class="trending">Trending Collection</h1>
+<div>
+<img src="Redicon.jpg" class="arrow" alt="">
+</div>
+</header><hr>
+<header id="collection">
+<div class="Nike1">
+<img src="Nike1.jpg" alt="">
+</div>
+<div class="nike2">
+<img src="Nike2.jpg" alt="">
+</div>
+<div class="nike3">
+<img src="Nike3.jpg" alt="">
+</div>
+<div class="nike4">
+<img src="Nike4.jpg" alt="">
+</div>
+</header>
+</body>
+</html>
